@@ -208,14 +208,15 @@ async function sendMail(user, callback) {
                               <tr>
                                 <td style="padding-bottom:45px;padding-left:10px;padding-right:10px;padding-top:10px;text-align:center;">
                                   <div align="center">
-                                  <a href="http://thorpesfarm.co.za/"> <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="thorpesfarm.co.za" style="height:52px;width:223px;v-text-anchor:middle;" arcsize="8%" stroke="false" fillcolor="#0b1560"><w:anchorlock/><v:textbox inset="5px,0px,0px,0px"><center style="color:#ffffff; font-family:Tahoma, sans-serif; font-size:16px"><![endif]--><a href="thorpesfarm.co.za" target="_blank" style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#0b1560;border-radius:4px;width:auto;border-top:1px solid #0b1560;border-right:1px solid #0b1560;border-bottom:1px solid #0b1560;border-left:1px solid #0b1560;padding-top:10px;padding-bottom:10px;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;"><span style="padding-left:60px;padding-right:55px;font-size:16px;display:inline-block;letter-spacing:normal;"><span style="font-size: 16px; margin: 0; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">See Bookings</span></span></a>
+                                  <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="thorpesfarm.co.za" style="height:52px;width:223px;v-text-anchor:middle;" arcsize="8%" stroke="false" fillcolor="#0b1560"><w:anchorlock/><v:textbox inset="5px,0px,0px,0px"><center style="color:#ffffff; font-family:Tahoma, sans-serif; font-size:16px"><![endif]-->
+                                    <a href="http://thorpesfarm.co.za" target="_blank" style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#0b1560;border-radius:4px;width:auto;border-top:1px solid #0b1560;border-right:1px solid #0b1560;border-bottom:1px solid #0b1560;border-left:1px solid #0b1560;padding-top:10px;padding-bottom:10px;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;"><span style="padding-left:60px;padding-right:55px;font-size:16px;display:inline-block;letter-spacing:normal;"><span style="font-size: 16px; margin: 0; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">See Bookings</span></span></a>
                                     <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
                                   </div>
                                 </td>
                               </tr>
                             </table>
                           </td>
-                        </tr>
+                        </tr> 
                       </tbody>
                     </table>
                   </td>
